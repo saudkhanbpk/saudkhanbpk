@@ -1,8 +1,6 @@
-# Welcome to my GitHub profile!
+Welcome to my GitHub profile! 👋 I'm Saud Khan (@saudkhantc), a seasoned Full Stack Developer with over 8 years of experience. My passion lies in crafting exceptional web and mobile applications using technologies like React, React Native, Angular Ts, Next Js, Nest js, and more.
 
-👋 I'm Saud Khan (@saudkhanbpk), a seasoned Full Stack Developer with over 8 years of experience. My passion lies in crafting exceptional web and mobile applications using technologies like React, React Native, Angular Ts, Next Js, Nest js, and more.
-
-📫 You can reach me on WhatsApp: +923119265290 or via email: saudkhanbpk@gmail.com
+📫 You can reach me on WhatsApp: +923119265290 or via email: contact@techcreator.co or click on this link to text me : https://api.whatsapp.com/send?phone=923119265290&text=Hello%20TechCreator%20Team
 
 🌐 I'm well-versed in the world of DevOps, with expertise in AWS, Microsoft Azure, Netlify, Docker, and deployment practices. I have a knack for managing complex databases, both SQL and non-SQL, and I've even dabbled in QA engineering, utilizing tools like Jest, Selenium, and Storybook.
 
@@ -14,22 +12,21 @@
 
 💼 Check out my professional profiles:
 
-- LinkedIn: [linkedin.com/in/saudkhan39](https://www.linkedin.com/in/saudkhan39)
-- Upwork: [upwork.com/freelancers/~01a32b779337878377](https://www.upwork.com/freelancers/~01a32b779337878377)
-- Upwork Agency: [upwork.com/ag/brainspk/](https://www.upwork.com/ag/brainspk/)
-- Behance (Portfolio): [behance.net/saudkhan39](https://www.behance.net/saudkhan39)
+LinkedIn: linkedin.com/in/saudkhan39
+Upwork: https://www.upwork.com/freelancers/saudk19
+Upwork Agency: https://www.upwork.com/ag/techcreator 
+Behance (Portfolio): behance.net/saudkhan39
 
-🔗 Connect with me on GitHub and GitLab:
-
-- GitHub: [github.com/saudkhanbpk/](https://github.com/saudkhanbpk/)
-- GitLab: [gitlab.com/saudkhanbpk/](https://gitlab.com/saudkhanbpk/)
-- GitLab (Alternative): [gitlab.com/saudkhan1391/](https://gitlab.com/saudkhan1391/)
-- GitHub (Alternative): [github.com/saudkhan1391/](https://github.com/saudkhan1391/)
+🔗 Connect with me on GitHub and GitLab: 
+GitHub: github.com/saudkhanbpk/
+GitLab: gitlab.com/saudkhanbpk/
+GitLab (Alternative): gitlab.com/saudkhan1391/
+GitHub (Alternative): github.com/saudkhan1391/
 
 🌐 Explore my latest creations:
+Patronworks.com
+Mosafir.pk 
+Geekshub.io
+Bnbyond.com
 
-- [Patronworks.com](https://patronworks.com)
-- [Mosafir.pk](https://mosafir.pk)
-- [Geekshub.io](https://geekshub.io)
-
-💬 Feel free to reach out to discuss your project ideas. Let's collaborate and turn your vision into reality. Together, we can achieve greatness! Thank you for visiting my profile.
+💬 Feel free to reach out to discuss your project ideas. Let's collaborate and turn your vision into reality. Together, we can achieve greatness! Thank you for visiting my profile. For more details visit our website techcreator.co
